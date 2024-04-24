@@ -1,8 +1,13 @@
 # menu
 # treść
 # pizze klasyczne
-1. MARGHERRITA (SOS, OREGANO, SER) 20zł
-2. FUNGHI (SOS POMIDOROWY, SER, PIECZARKI) 22zł
-3. SALAMI (SOS POMIDOROWY, SER GOUDA, SALAMI) 23zł
-4. VESUWIO (sos pomidorowy, podwójny ser, szynka) 24zł
-5. MILANO (oregano, sos ppmidorowy, papryka, szynka) 26zł
+
+<img src="img/ai-generated-8699605_640.jpg" width = 300>
+
+|Lp.|Pizza:                                                   |rozmiar: |30cm |50cm |60cm |
+|---|---------------------------------------------------------|---------|-----|-----|-----|
+|1. |MARGHERRITA (SOS, OREGANO, SER)                          |         |20zł |25zl |30zl |
+|2. |FUNGHI (SOS POMIDOROWY, SER, PIECZARKI)                  |         |     |     |     |
+|3. |SALAMI (SOS POMIDOROWY, SER GOUDA, SALAMI)               |         |     |     |     |
+|4. |VESUWIO (sos pomidorowy, podwójny ser, szynka)           |         |     |     |     |
+|5. |MILANO (oregano, sos ppmidorowy, papryka, szynka)        |         |     |     |     |
