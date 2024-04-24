@@ -1,2 +1,5 @@
 # menu
 # treść
+# pizze klasyczne
+1. MARGHERRITA (SOS, OREGANO, SER)
+2. FUNGHI (SOS POMIDOROWY, SER, PIECZARKI)
