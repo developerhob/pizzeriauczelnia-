@@ -11,3 +11,7 @@
 |3. |SALAMI (SOS POMIDOROWY, SER GOUDA, SALAMI)               |         |     |     |     |
 |4. |VESUWIO (sos pomidorowy, podwójny ser, szynka)           |         |     |     |     |
 |5. |MILANO (oregano, sos ppmidorowy, papryka, szynka)        |         |     |     |     |
+
+##pizze wegetariańskie
+|4. |hawajska vege (sos pomidorowy, podwójny ser, )           |         |     |     |     |
+|5. |MILANO wege (oregano, sos ppmidorowy, papryka,  )        |         |     |     |     |
