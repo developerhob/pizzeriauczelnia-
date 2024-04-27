@@ -15,3 +15,9 @@
 ##pizze wegetariańskie
 |4. |hawajska vege (sos pomidorowy, podwójny ser, )           |         |     |     |     |
 |5. |MILANO wege (oregano, sos ppmidorowy, papryka,  )        |         |     |     |     |
+
+
+## dodatki
+cukinia - 5zł
+karczochy - 6zł
+krewetki - 10zł
